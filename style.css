@@ -1,0 +1,22 @@
+.first-box {
+    width: 350px;
+    height: 160px;
+    text-align: center;
+    color: #777777;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center; 
+    color: #001AFF;
+}
+
+.second-box {
+    width: 350px;
+    height: 160px;
+    text-align: justify;
+    color: #FF0000;
+    margin-left: 72px;
+    line-height: 19.36px;
+}
